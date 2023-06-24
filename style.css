@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+*{
+   font-family: poppins;
+   
+}
+.navbar-brand{
+    color: white;
+}
+.navbar{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: #7f4f82;
+    color: white;
+}
+.card{
+    margin-bottom: 20px;
+}
+.row{
+    margin-bottom: 20px;
+}
+
+.container-fluid{
+    color: white;
+}
+#navbar-header{
+    background-color: #7f4f82;
+    color: white;
+    margin-bottom: 20px;
+}
+.btn{
+background-color: rgb(127, 79, 130);
+color: white;
+border: 1px solid white;
+}
+.btn:hover{
+    background-color: rgba(127, 79, 130, 0.8);
+    color: white;
+    border: none;
+}
